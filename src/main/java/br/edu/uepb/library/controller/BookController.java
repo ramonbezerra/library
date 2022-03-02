@@ -6,7 +6,6 @@ import br.edu.uepb.library.domain.Book;
 import br.edu.uepb.library.repository.BookRepository;
 import lombok.AllArgsConstructor;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
